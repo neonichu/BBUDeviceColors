@@ -1,0 +1,14 @@
+PODS:
+  - BBUDeviceColors (0.0.1)
+
+DEPENDENCIES:
+  - BBUDeviceColors (from `..`)
+
+EXTERNAL SOURCES:
+  BBUDeviceColors:
+    :path: ..
+
+SPEC CHECKSUMS:
+  BBUDeviceColors: 9658c71f16f251f99bb7909a5ced2fd9350f15dd
+
+COCOAPODS: 0.27.1
