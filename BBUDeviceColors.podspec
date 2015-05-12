@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'BBUDeviceColors'
-  s.version      = '0.0.1'
+  s.version      = '0.1.0'
   s.summary      = 'Category which gives you the front and back colors of an iOS device as UIColor objects.'
   s.homepage     = 'https://github.com/neonichu/BBUDeviceColors'
   s.license      = {:type => 'MIT', :file => 'LICENSE'}
